@@ -31,4 +31,6 @@ The requirements for the system are:
 - Database CSV document for customer/guest's details
 - Test table to show that the system fully works as intended
 
-  
+## My Flow Diagram
+
+![image](https://github.com/kayceed123/Hotel-project/assets/139760804/b039adab-0edb-417d-b70a-826c466be9de)
